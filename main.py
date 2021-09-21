@@ -8,6 +8,8 @@ def add(x,y):
     # Use a breakpoint in the code line below to debug your script.
     return x+y  # Press Ctrl+F8 to toggle the breakpoint.
 
+def add(a,b):
+    return a + b
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
